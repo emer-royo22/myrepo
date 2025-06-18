@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/services/AuthService.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/dbconnection/DBConnection.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/models/Customer.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/gui/DashboardFrame.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/gui/AddStockFrame.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/gui/LoginFrame.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/main/Main.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/gui/CustomerDashboardFrame.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/models/User.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/services/DBService.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/InventoryManagement/src/services/UserService.java</file>
+        </group>
+    </open-files>
+</project-private>
